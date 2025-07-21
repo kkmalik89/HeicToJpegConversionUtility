@@ -1,0 +1,13 @@
+# Image Conversion helpful libraries
+Pillow
+pillow-heif
+pydantic
+
+# Interactive kernel to test in local
+ipykernel
+
+# Visualization
+streamlit
+
+# Executable script
+pyinstaller
